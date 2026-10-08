@@ -1,0 +1,317 @@
+[
+  {
+    "group": "Base",
+    "token": "--im-void",
+    "name": "Void Black",
+    "hex": "#0A090F",
+    "rgb": [
+      10,
+      9,
+      15
+    ],
+    "contrast_on_void": 1.0,
+    "on_void": "solo decorativo",
+    "white_text_on_it": 19.83,
+    "white_on": "AA texto"
+  },
+  {
+    "group": "Base",
+    "token": "--im-night",
+    "name": "Night",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "contrast_on_void": 1.06,
+    "on_void": "solo decorativo",
+    "white_text_on_it": 21.0,
+    "white_on": "AA texto"
+  },
+  {
+    "group": "Base",
+    "token": "--im-ink-blue",
+    "name": "Deep Ink",
+    "hex": "#18243B",
+    "rgb": [
+      24,
+      36,
+      59
+    ],
+    "contrast_on_void": 1.28,
+    "on_void": "solo decorativo",
+    "white_text_on_it": 15.51,
+    "white_on": "AA texto"
+  },
+  {
+    "group": "Base",
+    "token": "--im-white",
+    "name": "White",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "contrast_on_void": 19.83,
+    "on_void": "AA texto",
+    "white_text_on_it": 1.0,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-aqua",
+    "name": "Neuro Aqua",
+    "hex": "#53F7E0",
+    "rgb": [
+      83,
+      247,
+      224
+    ],
+    "contrast_on_void": 14.87,
+    "on_void": "AA texto",
+    "white_text_on_it": 1.33,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-sky",
+    "name": "Synapse Sky",
+    "hex": "#29A1E8",
+    "rgb": [
+      41,
+      161,
+      232
+    ],
+    "contrast_on_void": 6.95,
+    "on_void": "AA texto",
+    "white_text_on_it": 2.85,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-cobalt",
+    "name": "Cobalt",
+    "hex": "#004CEF",
+    "rgb": [
+      0,
+      76,
+      239
+    ],
+    "contrast_on_void": 3.1,
+    "on_void": "AA texto grande / UI",
+    "white_text_on_it": 6.4,
+    "white_on": "AA texto"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-cyan",
+    "name": "Signal Cyan",
+    "hex": "#00C0FF",
+    "rgb": [
+      0,
+      192,
+      255
+    ],
+    "contrast_on_void": 9.43,
+    "on_void": "AA texto",
+    "white_text_on_it": 2.1,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-royal",
+    "name": "Royal Blue",
+    "hex": "#3B68E3",
+    "rgb": [
+      59,
+      104,
+      227
+    ],
+    "contrast_on_void": 4.04,
+    "on_void": "AA texto grande / UI",
+    "white_text_on_it": 4.91,
+    "white_on": "AA texto"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-violet",
+    "name": "Infinite Violet",
+    "hex": "#5640D6",
+    "rgb": [
+      86,
+      64,
+      214
+    ],
+    "contrast_on_void": 2.93,
+    "on_void": "solo decorativo",
+    "white_text_on_it": 6.77,
+    "white_on": "AA texto"
+  },
+  {
+    "group": "Mind (frío, cognitivo)",
+    "token": "--im-cerulean",
+    "name": "Cerulean",
+    "hex": "#09A4DE",
+    "rgb": [
+      9,
+      164,
+      222
+    ],
+    "contrast_on_void": 6.97,
+    "on_void": "AA texto",
+    "white_text_on_it": 2.85,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Play (cálido, juego)",
+    "token": "--im-sun",
+    "name": "Zoo Sun",
+    "hex": "#FCC612",
+    "rgb": [
+      252,
+      198,
+      18
+    ],
+    "contrast_on_void": 12.49,
+    "on_void": "AA texto",
+    "white_text_on_it": 1.59,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Play (cálido, juego)",
+    "token": "--im-ember",
+    "name": "Ember",
+    "hex": "#ED5735",
+    "rgb": [
+      237,
+      87,
+      53
+    ],
+    "contrast_on_void": 5.68,
+    "on_void": "AA texto",
+    "white_text_on_it": 3.49,
+    "white_on": "AA texto grande / UI"
+  },
+  {
+    "group": "Play (cálido, juego)",
+    "token": "--im-coral",
+    "name": "Coral",
+    "hex": "#EB5151",
+    "rgb": [
+      235,
+      81,
+      81
+    ],
+    "contrast_on_void": 5.5,
+    "on_void": "AA texto",
+    "white_text_on_it": 3.6,
+    "white_on": "AA texto grande / UI"
+  },
+  {
+    "group": "Play (cálido, juego)",
+    "token": "--im-rose",
+    "name": "Gummy Rose",
+    "hex": "#E84A75",
+    "rgb": [
+      232,
+      74,
+      117
+    ],
+    "contrast_on_void": 5.35,
+    "on_void": "AA texto",
+    "white_text_on_it": 3.71,
+    "white_on": "AA texto grande / UI"
+  },
+  {
+    "group": "Holograma",
+    "token": "--im-holo-blue",
+    "name": "Holo Blue",
+    "hex": "#61C9EA",
+    "rgb": [
+      97,
+      201,
+      234
+    ],
+    "contrast_on_void": 10.44,
+    "on_void": "AA texto",
+    "white_text_on_it": 1.9,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Holograma",
+    "token": "--im-holo-mist",
+    "name": "Holo Mist",
+    "hex": "#7FBCEC",
+    "rgb": [
+      127,
+      188,
+      236
+    ],
+    "contrast_on_void": 9.73,
+    "on_void": "AA texto",
+    "white_text_on_it": 2.04,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Holograma",
+    "token": "--im-holo-lilac",
+    "name": "Holo Lilac",
+    "hex": "#D598F2",
+    "rgb": [
+      213,
+      152,
+      242
+    ],
+    "contrast_on_void": 9.07,
+    "on_void": "AA texto",
+    "white_text_on_it": 2.19,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Neutros",
+    "token": "--im-gray-300",
+    "name": "Gray 300",
+    "hex": "#CED4DA",
+    "rgb": [
+      206,
+      212,
+      218
+    ],
+    "contrast_on_void": 13.27,
+    "on_void": "AA texto",
+    "white_text_on_it": 1.49,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Neutros",
+    "token": "--im-gray-500",
+    "name": "Gray 500",
+    "hex": "#ADB5BD",
+    "rgb": [
+      173,
+      181,
+      189
+    ],
+    "contrast_on_void": 9.56,
+    "on_void": "AA texto",
+    "white_text_on_it": 2.07,
+    "white_on": "solo decorativo"
+  },
+  {
+    "group": "Neutros",
+    "token": "--im-gray-600",
+    "name": "Gray 600",
+    "hex": "#6C757D",
+    "rgb": [
+      108,
+      117,
+      125
+    ],
+    "contrast_on_void": 4.23,
+    "on_void": "AA texto grande / UI",
+    "white_text_on_it": 4.69,
+    "white_on": "AA texto"
+  }
+]

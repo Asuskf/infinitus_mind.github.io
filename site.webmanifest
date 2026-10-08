@@ -1,0 +1,14 @@
+{
+  "name": "Infinitus Mind",
+  "short_name": "Infinitus Mind",
+  "description": "Videojuegos para evaluar y desarrollar habilidades blandas (soft skills).",
+  "lang": "es",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0A090F",
+  "theme_color": "#0A090F",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/logo-256.png", "sizes": "256x256", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://infinitusmind.com/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://infinitusmind.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://infinitusmind.com/" />
+    <image:image><image:loc>https://infinitusmind.com/assets/img/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/game.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/c.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/Cerebro_P.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/04.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/portfolio/1.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/portfolio/2.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/portfolio/3.webp</image:loc></image:image>
+    <image:image><image:loc>https://infinitusmind.com/assets/img/portfolio/4.webp</image:loc></image:image>
+  </url>
+</urlset>
