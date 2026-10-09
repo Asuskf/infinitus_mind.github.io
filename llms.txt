@@ -1,35 +1,29 @@
 # Infinitus Mind
 
-> Infinitus Mind crea videojuegos y experiencias de realidad virtual que evalúan y desarrollan habilidades blandas (soft skills) en adultos, adolescentes y niños. Combina juego, neurociencia, psicología, neuroeducación e inteligencia artificial, dentro de una plataforma web de desarrollo.
+> Infinitus Mind crea videojuegos y experiencias de realidad virtual que evalúan y desarrollan habilidades blandas (soft skills) en adultos, adolescentes y niños. Combina juego, neurociencia, psicología, neuroeducación e inteligencia artificial con el propósito de ayudar a construir sociedades más competitivas, justas e inclusivas.
 
-Propósito: ayudar a construir sociedades más competitivas, justas e inclusivas.
+Nos dedicamos a la evaluación y entrenamiento de soft skills a través de videojuegos que simulan desafíos de la vida real y experiencias de aprendizaje inmersivo. Nuestros servicios abarcan desde simuladores virtuales para todas las edades hasta el desarrollo personalizado de planes a la medida y la investigación científica (I+D) para enriquecer nuestros juegos.
 
-## Qué hacemos
-- Videojuegos de evaluación y de desarrollo de habilidades blandas que simulan desafíos de la vida real.
-- Experiencias de aprendizaje inmersivo basadas en videojuegos y realidad virtual.
+Las competencias que evaluamos y desarrollamos incluyen:
+* Cognitivas: visión estratégica, planificación, creatividad, pensamiento lateral, pensamiento conceptual, pensamiento analítico, resolución de problemas.
+* Inteligencia emocional: autocontrol, resiliencia, empatía, flexibilidad, conocimiento de sí mismo.
+* Interacción con otros: trabajo en equipo, orientación al cliente, coraje/empuje, influencia e impacto, negociación, comunicación.
+* Dirección de otros: toma de decisiones, desarrollo de personas, liderazgo, gestión de conflictos.
+* Gestión: orientación a la calidad, orientación a resultados.
 
-## Servicios
-- Evaluación y entrenamiento: evaluación y entrenamiento de soft skills con juegos y simuladores virtuales para adultos, adolescentes y niños.
-- Desarrollo personalizado: planes de desarrollo a la medida del potencial de cada persona.
-- R+D científico: investigación y estudios científicos para enriquecer los videojuegos.
+## Productos y Evaluaciones
 
-## Competencias que evaluamos y desarrollamos
-- Cognitivas: visión estratégica, planificación, creatividad, pensamiento lateral, pensamiento conceptual, pensamiento analítico, resolución de problemas.
-- Inteligencia emocional: autocontrol, resiliencia, empatía, flexibilidad, conocimiento de sí mismo.
-- Interacción con otros: trabajo en equipo, orientación al cliente, coraje/empuje, influencia e impacto, negociación, comunicación.
-- Dirección de otros: toma de decisiones, desarrollo de personas, liderazgo, gestión de conflictos.
-- Gestión: orientación a la calidad, orientación a resultados.
+- [Un día en el zoo](https://infinitusmind.com/): Juego de evaluación en el que el jugador arma la ruta perfecta para alimentar a todos los animales del zoológico en el menor tiempo posible.
 
-## Juegos
-- Un día en el zoo: juego de evaluación en el que el jugador arma la ruta perfecta para alimentar a todos los animales del zoológico en el menor tiempo posible.
+## Documentación y Enlaces Principales
 
-## Enlaces
-- [Sitio web](https://infinitusmind.com/)
-- [Preguntas frecuentes](https://infinitusmind.com/#faq)
-- [Instagram](https://www.instagram.com/infinitusmind_games/)
-- [Facebook](https://www.facebook.com/Infinitus-Mind-101134775814185)
-- [X (Twitter)](https://twitter.com/Infinitusmind_)
-- [LinkedIn](https://www.linkedin.com/in/infinitusmind-games-9b5885230/)
+- [Sitio web](https://infinitusmind.com/): Página principal con la propuesta de valor y catálogo de experiencias de realidad virtual.
+- [Preguntas frecuentes](https://infinitusmind.com/#faq): Resoluciones a dudas comunes sobre la evaluación de soft skills y el uso de la plataforma.
 
-## Contacto
-- Email: infinitusmind@gmail.com
+## Optional
+
+- [Instagram](https://www.instagram.com/infinitusmind_games/): Novedades visuales y demos de nuestros videojuegos.
+- [LinkedIn](https://www.linkedin.com/in/infinitusmind-games-9b5885230/): Perfil corporativo para contactos B2B y recursos humanos.
+- [Facebook](https://www.facebook.com/Infinitus-Mind-101134775814185): Comunidad oficial de Infinitus Mind.
+- [X (Twitter)](https://twitter.com/infinitusmind_): Actualizaciones cortas.
+- [Contacto Email](mailto:infinitusmind@gmail.com): Correo directo para solicitudes de planes personalizados de desarrollo.
