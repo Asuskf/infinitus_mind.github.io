@@ -62,8 +62,9 @@ Uno por vista (ya usa `--im-grad-action-aa`). Para piezas fuera del sitio:
   <p class="text-muted2 p-service">Descripción.</p>
 </div>
 ```
-⚠ `css/styles.css` tiene una regla global `h4 { padding-top:10.5rem; background-image:… }`
-heredada: **no agregues `<h4>` fuera de `.title_service`** o heredará ese fondo.
+Nota: el degradado del título lo aporta el contenedor `.title_service` (`background-clip:text`);
+el `h4` global solo fija `color:#fff`. Para una jerarquía correcta bajo un `<h2>`, prefiere
+`<h3 class="h4 my-3">` dentro de `.title_service` (mismo aspecto).
 
 ### Juego destacado (arte + velo + texto)
 ```html
