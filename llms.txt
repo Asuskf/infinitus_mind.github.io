@@ -13,7 +13,7 @@ Las competencias que evaluamos y desarrollamos incluyen:
 
 ## Productos y Evaluaciones
 
-- [Un día en el zoo](https://infinitusmind.com/): Juego de evaluación en el que el jugador arma la ruta perfecta para alimentar a todos los animales del zoológico en el menor tiempo posible.
+- [Un día en el zoo](https://infinitusmind.com/): Juego de evaluación en el que el jugador arma la ruta perfecta para alimentar a todos los animales del zoológico.
 
 ## Documentación y Enlaces Principales
 
